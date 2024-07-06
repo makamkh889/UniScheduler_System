@@ -1,0 +1,468 @@
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/appsettings.Development.json
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/appsettings.json
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/GraduationProject.Api.exe
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/GraduationProject.Api.deps.json
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/GraduationProject.Api.runtimeconfig.json
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/GraduationProject.Api.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/GraduationProject.Api.pdb
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/Microsoft.OpenApi.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+G:/Visual/GraduationProject/GraduationProject.Api/obj/Debug/net8.0/GraduationProject.Api.csproj.AssemblyReference.cache
+G:/Visual/GraduationProject/GraduationProject.Api/obj/Debug/net8.0/GraduationProject.Api.GeneratedMSBuildEditorConfig.editorconfig
+G:/Visual/GraduationProject/GraduationProject.Api/obj/Debug/net8.0/GraduationProject.Api.AssemblyInfoInputs.cache
+G:/Visual/GraduationProject/GraduationProject.Api/obj/Debug/net8.0/GraduationProject.Api.AssemblyInfo.cs
+G:/Visual/GraduationProject/GraduationProject.Api/obj/Debug/net8.0/GraduationProject.Api.csproj.CoreCompileInputs.cache
+G:/Visual/GraduationProject/GraduationProject.Api/obj/Debug/net8.0/GraduationProject.Api.MvcApplicationPartsAssemblyInfo.cs
+G:/Visual/GraduationProject/GraduationProject.Api/obj/Debug/net8.0/GraduationProject.Api.MvcApplicationPartsAssemblyInfo.cache
+G:/Visual/GraduationProject/GraduationProject.Api/obj/Debug/net8.0/staticwebassets.build.json
+G:/Visual/GraduationProject/GraduationProject.Api/obj/Debug/net8.0/staticwebassets.development.json
+G:/Visual/GraduationProject/GraduationProject.Api/obj/Debug/net8.0/staticwebassets/msbuild.GraduationProject.Api.Microsoft.AspNetCore.StaticWebAssets.props
+G:/Visual/GraduationProject/GraduationProject.Api/obj/Debug/net8.0/staticwebassets/msbuild.build.GraduationProject.Api.props
+G:/Visual/GraduationProject/GraduationProject.Api/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.GraduationProject.Api.props
+G:/Visual/GraduationProject/GraduationProject.Api/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.GraduationProject.Api.props
+G:/Visual/GraduationProject/GraduationProject.Api/obj/Debug/net8.0/staticwebassets.pack.json
+G:/Visual/GraduationProject/GraduationProject.Api/obj/Debug/net8.0/scopedcss/bundle/GraduationProject.Api.styles.css
+G:/Visual/GraduationProject/GraduationProject.Api/obj/Debug/net8.0/Graduati.B900F6DF.Up2Date
+G:/Visual/GraduationProject/GraduationProject.Api/obj/Debug/net8.0/GraduationProject.Api.dll
+G:/Visual/GraduationProject/GraduationProject.Api/obj/Debug/net8.0/refint/GraduationProject.Api.dll
+G:/Visual/GraduationProject/GraduationProject.Api/obj/Debug/net8.0/GraduationProject.Api.pdb
+G:/Visual/GraduationProject/GraduationProject.Api/obj/Debug/net8.0/GraduationProject.Api.genruntimeconfig.cache
+G:/Visual/GraduationProject/GraduationProject.Api/obj/Debug/net8.0/ref/GraduationProject.Api.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/Azure.Core.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/Azure.Identity.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/Humanizer.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/Mono.TextTemplating.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/System.CodeDom.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/System.Composition.Convention.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/System.Composition.Hosting.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/System.Composition.Runtime.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/System.Composition.TypedParts.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/System.Drawing.Common.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/System.Memory.Data.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/System.Runtime.Caching.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/System.Security.Permissions.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/System.Windows.Extensions.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/GrdauationProject.EF.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/GrdauationProject.EF.pdb
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/GraduationProject.core.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/GraduationProject.core.pdb
+G:/Visual/GraduationProject/GraduationProject.Api/obj/Debug/net8.0/GraduationProject.Api.sourcelink.json
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/DocumentFormat.OpenXml.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/DocumentFormat.OpenXml.Framework.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/Microsoft.AspNetCore.JsonPatch.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.InMemory.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/Microsoft.Extensions.Identity.Core.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/Microsoft.Extensions.Identity.Stores.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/Newtonsoft.Json.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/Newtonsoft.Json.Bson.dll
+G:/Visual/GraduationProject/GraduationProject.Api/bin/Debug/net8.0/System.IO.Packaging.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/appsettings.Development.json
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/appsettings.json
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/GraduationProject.Api
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/GraduationProject.Api.deps.json
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/GraduationProject.Api.runtimeconfig.json
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/GraduationProject.Api.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/GraduationProject.Api.pdb
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/Azure.Core.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/Azure.Identity.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/DocumentFormat.OpenXml.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/DocumentFormat.OpenXml.Framework.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/Humanizer.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/Microsoft.AspNetCore.JsonPatch.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/Microsoft.Extensions.Identity.Core.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/Microsoft.Extensions.Identity.Stores.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/Mono.TextTemplating.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/Newtonsoft.Json.Bson.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/System.CodeDom.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/System.Composition.Convention.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/System.Composition.Hosting.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/System.Composition.Runtime.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/System.Drawing.Common.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/System.IO.Packaging.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/System.Memory.Data.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/System.Runtime.Caching.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/System.Security.Permissions.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/System.Windows.Extensions.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/GraduationProject.core.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/GrdauationProject.EF.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/GrdauationProject.EF.pdb
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/bin/Debug/net8.0/GraduationProject.core.pdb
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/obj/Debug/net8.0/GraduationProject.Api.csproj.AssemblyReference.cache
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/obj/Debug/net8.0/GraduationProject.Api.GeneratedMSBuildEditorConfig.editorconfig
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/obj/Debug/net8.0/GraduationProject.Api.AssemblyInfoInputs.cache
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/obj/Debug/net8.0/GraduationProject.Api.AssemblyInfo.cs
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/obj/Debug/net8.0/GraduationProject.Api.csproj.CoreCompileInputs.cache
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/obj/Debug/net8.0/GraduationProject.Api.MvcApplicationPartsAssemblyInfo.cs
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/obj/Debug/net8.0/GraduationProject.Api.MvcApplicationPartsAssemblyInfo.cache
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/obj/Debug/net8.0/GraduationProject.Api.sourcelink.json
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/obj/Debug/net8.0/staticwebassets.build.json
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/obj/Debug/net8.0/staticwebassets.development.json
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/obj/Debug/net8.0/staticwebassets/msbuild.GraduationProject.Api.Microsoft.AspNetCore.StaticWebAssets.props
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/obj/Debug/net8.0/staticwebassets/msbuild.build.GraduationProject.Api.props
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.GraduationProject.Api.props
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.GraduationProject.Api.props
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/obj/Debug/net8.0/staticwebassets.pack.json
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/obj/Debug/net8.0/scopedcss/bundle/GraduationProject.Api.styles.css
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/obj/Debug/net8.0/Graduati.B900F6DF.Up2Date
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/obj/Debug/net8.0/GraduationProject.Api.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/obj/Debug/net8.0/refint/GraduationProject.Api.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/obj/Debug/net8.0/GraduationProject.Api.pdb
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/obj/Debug/net8.0/GraduationProject.Api.genruntimeconfig.cache
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.Api/obj/Debug/net8.0/ref/GraduationProject.Api.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\appsettings.Development.json
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\appsettings.json
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\GraduationProject.Api.exe
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\GraduationProject.Api.deps.json
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\GraduationProject.Api.runtimeconfig.json
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\GraduationProject.Api.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\GraduationProject.Api.pdb
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\Azure.Core.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\Azure.Identity.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\DocumentFormat.OpenXml.Framework.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\Humanizer.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\Newtonsoft.Json.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\System.CodeDom.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\System.Composition.Convention.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\System.Drawing.Common.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\System.IO.Packaging.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\System.Memory.Data.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\System.Security.Permissions.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\GraduationProject.core.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\GrdauationProject.EF.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\GrdauationProject.EF.pdb
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\bin\Debug\net8.0\GraduationProject.core.pdb
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\obj\Debug\net8.0\GraduationProject.Api.csproj.AssemblyReference.cache
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\obj\Debug\net8.0\GraduationProject.Api.GeneratedMSBuildEditorConfig.editorconfig
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\obj\Debug\net8.0\GraduationProject.Api.AssemblyInfoInputs.cache
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\obj\Debug\net8.0\GraduationProject.Api.AssemblyInfo.cs
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\obj\Debug\net8.0\GraduationProject.Api.csproj.CoreCompileInputs.cache
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\obj\Debug\net8.0\GraduationProject.Api.MvcApplicationPartsAssemblyInfo.cs
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\obj\Debug\net8.0\GraduationProject.Api.MvcApplicationPartsAssemblyInfo.cache
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\obj\Debug\net8.0\staticwebassets.build.json
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\obj\Debug\net8.0\staticwebassets.development.json
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\obj\Debug\net8.0\staticwebassets\msbuild.GraduationProject.Api.Microsoft.AspNetCore.StaticWebAssets.props
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.GraduationProject.Api.props
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.GraduationProject.Api.props
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.GraduationProject.Api.props
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\obj\Debug\net8.0\staticwebassets.pack.json
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\obj\Debug\net8.0\scopedcss\bundle\GraduationProject.Api.styles.css
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\obj\Debug\net8.0\Graduati.B900F6DF.Up2Date
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\obj\Debug\net8.0\GraduationProject.Api.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\obj\Debug\net8.0\refint\GraduationProject.Api.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\obj\Debug\net8.0\GraduationProject.Api.pdb
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\obj\Debug\net8.0\GraduationProject.Api.genruntimeconfig.cache
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\obj\Debug\net8.0\ref\GraduationProject.Api.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.Api\obj\Debug\net8.0\GraduationProject.Api.sourcelink.json

@@ -1,0 +1,533 @@
+[
+  {
+    "ContainingType": "GraduationProject.Api.Controllers.AdminController",
+    "Method": "AddAdmin",
+    "RelativePath": "AddAdmin",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "admin",
+        "Type": "GraduationProject.core.DTO.UserInput.User",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GraduationProject.Api.Controllers.AdminController",
+    "Method": "AddDoctor",
+    "RelativePath": "AddDoctor",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "doctor",
+        "Type": "GraduationProject.core.DTO.UserInput.UserDoctor",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GraduationProject.Api.Controllers.AdminController",
+    "Method": "AddDoctorOptions",
+    "RelativePath": "AddDoctorOptions",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "options",
+        "Type": "GraduationProject.core.DTO.UserInput.DoctorOptions",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GraduationProject.Api.Controllers.AdminController",
+    "Method": "AddNewDepartmentOrGroup",
+    "RelativePath": "AddNewDepartmentOrGroup",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Level",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GraduationProject.Api.Controllers.AdminController",
+    "Method": "AddNewHall",
+    "RelativePath": "AddNewHall",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "HallName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Capacity",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GraduationProject.Api.Controllers.AdminController",
+    "Method": "AddStudent",
+    "RelativePath": "AddStudent",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "student",
+        "Type": "GraduationProject.core.DTO.UserInput.UserStudent",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GraduationProject.Api.Controllers.AdminController",
+    "Method": "currentAdminData",
+    "RelativePath": "currentAdminData",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GraduationProject.Api.Controllers.DoctorController",
+    "Method": "currentDoctorData",
+    "RelativePath": "currentDoctorData",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GraduationProject.Api.Controllers.StudentController",
+    "Method": "currentStudentData",
+    "RelativePath": "currentStudentData",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GraduationProject.Api.Controllers.AdminController",
+    "Method": "DeleteAdmin",
+    "RelativePath": "DeleteAdmin",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "adminID",
+        "Type": "GraduationProject.core.DTO.UserInput.NationalID",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GraduationProject.Api.Controllers.AdminController",
+    "Method": "DeleteDoctor",
+    "RelativePath": "DeleteDoctor",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "NationalID",
+        "Type": "GraduationProject.core.DTO.UserInput.NationalID",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GraduationProject.Api.Controllers.AdminController",
+    "Method": "DeleteDoctoroption",
+    "RelativePath": "DeleteDoctoroption",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "NationalID",
+        "Type": "GraduationProject.core.DTO.UserInput.NationalID",
+        "IsRequired": true
+      },
+      {
+        "Name": "courseCode",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "department",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GraduationProject.Api.Controllers.AdminController",
+    "Method": "DeleteStudent",
+    "RelativePath": "DeleteStudent",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "AcademicNumber",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GraduationProject.Api.Controllers.AdminController",
+    "Method": "EditAdmin",
+    "RelativePath": "EditAdmin",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "admin",
+        "Type": "GraduationProject.core.DTO.UserInput.User",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GraduationProject.Api.Controllers.DoctorController",
+    "Method": "EnrollDocotrCoruses",
+    "RelativePath": "EnrollDocotrCoruses",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "options",
+        "Type": "GraduationProject.core.DTO.UserInput.Options",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GraduationProject.Api.Controllers.AdminController",
+    "Method": "FillData",
+    "RelativePath": "FillData",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GraduationProject.Api.Controllers.AdminController",
+    "Method": "GetAdmins",
+    "RelativePath": "GetAdmins",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GraduationProject.Api.Controllers.AdminController",
+    "Method": "GetAllDoctors",
+    "RelativePath": "GetAllDocotrs",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GraduationProject.Api.Controllers.AdminController",
+    "Method": "GetAllHall",
+    "RelativePath": "GetAllHall",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GraduationProject.Api.Controllers.AdminController",
+    "Method": "getData",
+    "RelativePath": "getData",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GraduationProject.Api.Controllers.DoctorController",
+    "Method": "GetDoctorCourses",
+    "RelativePath": "GetDoctorCourses",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GraduationProject.Api.Controllers.DoctorController",
+    "Method": "GetDoctorSechdule",
+    "RelativePath": "GetDoctorSechdule",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GraduationProject.Api.Controllers.AdminController",
+    "Method": "GetGroupBerLevel",
+    "RelativePath": "GetGroupBerLevel",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GraduationProject.Api.Controllers.AdminController",
+    "Method": "GetSchedule",
+    "RelativePath": "GetSchedule",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GraduationProject.Api.Controllers.AdminController",
+    "Method": "GetStudent",
+    "RelativePath": "GetStudent",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "AcademicNumber",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GraduationProject.Api.Controllers.AdminController",
+    "Method": "GetStudents",
+    "RelativePath": "GetStudents",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Semster",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Department",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GraduationProject.Api.Controllers.StudentController",
+    "Method": "GetStudentSchedule",
+    "RelativePath": "GetStudentSchedule",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FCI.Controllers.AccountController",
+    "Method": "Login",
+    "RelativePath": "Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "LoginInfo",
+        "Type": "GraduationProject.core.DTO.UserInput.LoginUserDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GraduationProject.Api.Controllers.AdminController",
+    "Method": "Schedule",
+    "RelativePath": "Schedule",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GraduationProject.Api.Controllers.AdminController",
+    "Method": "SendEmail",
+    "RelativePath": "SendEmail",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "subject",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "body",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GraduationProject.Api.Controllers.StudentController",
+    "Method": "StudentRecord",
+    "RelativePath": "StudentRecord",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "courses",
+        "Type": "System.Collections.Generic.List\u00601[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GraduationProject.Api.Controllers.StudentController",
+    "Method": "StuedntAcademicRecordCourses",
+    "RelativePath": "StuedntAcademicRecordCourses",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GraduationProject.Api.Controllers.AdminController",
+    "Method": "UpdataHall",
+    "RelativePath": "UpdataHall",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "courseCode",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "hallName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "department",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GraduationProject.Api.Controllers.AdminController",
+    "Method": "UpdateDoctorOptions",
+    "RelativePath": "UpdateDoctorOptions",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "options",
+        "Type": "GraduationProject.core.DTO.UserInput.DoctorOptions",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GraduationProject.Api.Controllers.DoctorController",
+    "Method": "UpdateOptions",
+    "RelativePath": "UpdateOptions",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "options",
+        "Type": "GraduationProject.core.DTO.UserInput.Options",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GraduationProject.Api.Controllers.AdminController",
+    "Method": "UploadExcelsheetForStudent",
+    "RelativePath": "uploadExcelsheetForStudent",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "file",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

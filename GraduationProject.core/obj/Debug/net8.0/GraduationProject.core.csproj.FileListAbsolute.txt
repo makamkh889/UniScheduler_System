@@ -1,0 +1,39 @@
+G:/Visual/GraduationProject/GraduationProject.core/bin/Debug/net8.0/GraduationProject.core.deps.json
+G:/Visual/GraduationProject/GraduationProject.core/bin/Debug/net8.0/GraduationProject.core.dll
+G:/Visual/GraduationProject/GraduationProject.core/bin/Debug/net8.0/GraduationProject.core.pdb
+G:/Visual/GraduationProject/GraduationProject.core/obj/Debug/net8.0/GraduationProject.core.GeneratedMSBuildEditorConfig.editorconfig
+G:/Visual/GraduationProject/GraduationProject.core/obj/Debug/net8.0/GraduationProject.core.AssemblyInfoInputs.cache
+G:/Visual/GraduationProject/GraduationProject.core/obj/Debug/net8.0/GraduationProject.core.AssemblyInfo.cs
+G:/Visual/GraduationProject/GraduationProject.core/obj/Debug/net8.0/GraduationProject.core.csproj.CoreCompileInputs.cache
+G:/Visual/GraduationProject/GraduationProject.core/obj/Debug/net8.0/GraduationProject.core.dll
+G:/Visual/GraduationProject/GraduationProject.core/obj/Debug/net8.0/refint/GraduationProject.core.dll
+G:/Visual/GraduationProject/GraduationProject.core/obj/Debug/net8.0/GraduationProject.core.pdb
+G:/Visual/GraduationProject/GraduationProject.core/obj/Debug/net8.0/ref/GraduationProject.core.dll
+G:/Visual/GraduationProject/GraduationProject.core/obj/Debug/net8.0/GraduationProject.core.csproj.AssemblyReference.cache
+G:/Visual/GraduationProject/GraduationProject.core/obj/Debug/net8.0/GraduationProject.core.sourcelink.json
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.core/bin/Debug/net8.0/GraduationProject.core.deps.json
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.core/bin/Debug/net8.0/GraduationProject.core.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.core/bin/Debug/net8.0/GraduationProject.core.pdb
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.core/obj/Debug/net8.0/GraduationProject.core.csproj.AssemblyReference.cache
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.core/obj/Debug/net8.0/GraduationProject.core.GeneratedMSBuildEditorConfig.editorconfig
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.core/obj/Debug/net8.0/GraduationProject.core.AssemblyInfoInputs.cache
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.core/obj/Debug/net8.0/GraduationProject.core.AssemblyInfo.cs
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.core/obj/Debug/net8.0/GraduationProject.core.csproj.CoreCompileInputs.cache
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.core/obj/Debug/net8.0/GraduationProject.core.sourcelink.json
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.core/obj/Debug/net8.0/GraduationProject.core.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.core/obj/Debug/net8.0/refint/GraduationProject.core.dll
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.core/obj/Debug/net8.0/GraduationProject.core.pdb
+/home/m-kh/Desktop/FCI_Backend-main/GraduationProject.core/obj/Debug/net8.0/ref/GraduationProject.core.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.core\bin\Debug\net8.0\GraduationProject.core.deps.json
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.core\bin\Debug\net8.0\GraduationProject.core.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.core\bin\Debug\net8.0\GraduationProject.core.pdb
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.core\obj\Debug\net8.0\GraduationProject.core.csproj.AssemblyReference.cache
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.core\obj\Debug\net8.0\GraduationProject.core.GeneratedMSBuildEditorConfig.editorconfig
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.core\obj\Debug\net8.0\GraduationProject.core.AssemblyInfoInputs.cache
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.core\obj\Debug\net8.0\GraduationProject.core.AssemblyInfo.cs
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.core\obj\Debug\net8.0\GraduationProject.core.csproj.CoreCompileInputs.cache
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.core\obj\Debug\net8.0\GraduationProject.core.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.core\obj\Debug\net8.0\refint\GraduationProject.core.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.core\obj\Debug\net8.0\GraduationProject.core.pdb
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.core\obj\Debug\net8.0\ref\GraduationProject.core.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.core\obj\Debug\net8.0\GraduationProject.core.sourcelink.json

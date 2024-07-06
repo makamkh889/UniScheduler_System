@@ -1,0 +1,54 @@
+G:/Visual/GraduationProject/GrdauationProject.EF/bin/Debug/net8.0/GrdauationProject.EF.deps.json
+G:/Visual/GraduationProject/GrdauationProject.EF/bin/Debug/net8.0/GrdauationProject.EF.runtimeconfig.json
+G:/Visual/GraduationProject/GrdauationProject.EF/bin/Debug/net8.0/GrdauationProject.EF.dll
+G:/Visual/GraduationProject/GrdauationProject.EF/bin/Debug/net8.0/GrdauationProject.EF.pdb
+G:/Visual/GraduationProject/GrdauationProject.EF/obj/Debug/net8.0/GrdauationProject.EF.csproj.AssemblyReference.cache
+G:/Visual/GraduationProject/GrdauationProject.EF/obj/Debug/net8.0/GrdauationProject.EF.GeneratedMSBuildEditorConfig.editorconfig
+G:/Visual/GraduationProject/GrdauationProject.EF/obj/Debug/net8.0/GrdauationProject.EF.AssemblyInfoInputs.cache
+G:/Visual/GraduationProject/GrdauationProject.EF/obj/Debug/net8.0/GrdauationProject.EF.AssemblyInfo.cs
+G:/Visual/GraduationProject/GrdauationProject.EF/obj/Debug/net8.0/GrdauationProject.EF.csproj.CoreCompileInputs.cache
+G:/Visual/GraduationProject/GrdauationProject.EF/obj/Debug/net8.0/GrdauationProject.EF.dll
+G:/Visual/GraduationProject/GrdauationProject.EF/obj/Debug/net8.0/refint/GrdauationProject.EF.dll
+G:/Visual/GraduationProject/GrdauationProject.EF/obj/Debug/net8.0/GrdauationProject.EF.pdb
+G:/Visual/GraduationProject/GrdauationProject.EF/obj/Debug/net8.0/GrdauationProject.EF.genruntimeconfig.cache
+G:/Visual/GraduationProject/GrdauationProject.EF/obj/Debug/net8.0/ref/GrdauationProject.EF.dll
+G:/Visual/GraduationProject/GrdauationProject.EF/bin/Debug/net8.0/GraduationProject.core.dll
+G:/Visual/GraduationProject/GrdauationProject.EF/bin/Debug/net8.0/GraduationProject.core.pdb
+G:/Visual/GraduationProject/GrdauationProject.EF/obj/Debug/net8.0/Grdauati.0D300272.Up2Date
+G:/Visual/GraduationProject/GrdauationProject.EF/obj/Debug/net8.0/GrdauationProject.EF.sourcelink.json
+/home/m-kh/Desktop/FCI_Backend-main/GrdauationProject.EF/bin/Debug/net8.0/GrdauationProject.EF.deps.json
+/home/m-kh/Desktop/FCI_Backend-main/GrdauationProject.EF/bin/Debug/net8.0/GrdauationProject.EF.runtimeconfig.json
+/home/m-kh/Desktop/FCI_Backend-main/GrdauationProject.EF/bin/Debug/net8.0/GrdauationProject.EF.dll
+/home/m-kh/Desktop/FCI_Backend-main/GrdauationProject.EF/bin/Debug/net8.0/GrdauationProject.EF.pdb
+/home/m-kh/Desktop/FCI_Backend-main/GrdauationProject.EF/bin/Debug/net8.0/GraduationProject.core.dll
+/home/m-kh/Desktop/FCI_Backend-main/GrdauationProject.EF/bin/Debug/net8.0/GraduationProject.core.pdb
+/home/m-kh/Desktop/FCI_Backend-main/GrdauationProject.EF/obj/Debug/net8.0/GrdauationProject.EF.csproj.AssemblyReference.cache
+/home/m-kh/Desktop/FCI_Backend-main/GrdauationProject.EF/obj/Debug/net8.0/GrdauationProject.EF.GeneratedMSBuildEditorConfig.editorconfig
+/home/m-kh/Desktop/FCI_Backend-main/GrdauationProject.EF/obj/Debug/net8.0/GrdauationProject.EF.AssemblyInfoInputs.cache
+/home/m-kh/Desktop/FCI_Backend-main/GrdauationProject.EF/obj/Debug/net8.0/GrdauationProject.EF.AssemblyInfo.cs
+/home/m-kh/Desktop/FCI_Backend-main/GrdauationProject.EF/obj/Debug/net8.0/GrdauationProject.EF.csproj.CoreCompileInputs.cache
+/home/m-kh/Desktop/FCI_Backend-main/GrdauationProject.EF/obj/Debug/net8.0/GrdauationProject.EF.sourcelink.json
+/home/m-kh/Desktop/FCI_Backend-main/GrdauationProject.EF/obj/Debug/net8.0/Grdauati.0D300272.Up2Date
+/home/m-kh/Desktop/FCI_Backend-main/GrdauationProject.EF/obj/Debug/net8.0/GrdauationProject.EF.dll
+/home/m-kh/Desktop/FCI_Backend-main/GrdauationProject.EF/obj/Debug/net8.0/refint/GrdauationProject.EF.dll
+/home/m-kh/Desktop/FCI_Backend-main/GrdauationProject.EF/obj/Debug/net8.0/GrdauationProject.EF.pdb
+/home/m-kh/Desktop/FCI_Backend-main/GrdauationProject.EF/obj/Debug/net8.0/GrdauationProject.EF.genruntimeconfig.cache
+/home/m-kh/Desktop/FCI_Backend-main/GrdauationProject.EF/obj/Debug/net8.0/ref/GrdauationProject.EF.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GrdauationProject.EF\bin\Debug\net8.0\GrdauationProject.EF.deps.json
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GrdauationProject.EF\bin\Debug\net8.0\GrdauationProject.EF.runtimeconfig.json
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GrdauationProject.EF\bin\Debug\net8.0\GrdauationProject.EF.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GrdauationProject.EF\bin\Debug\net8.0\GrdauationProject.EF.pdb
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GrdauationProject.EF\bin\Debug\net8.0\GraduationProject.core.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GrdauationProject.EF\bin\Debug\net8.0\GraduationProject.core.pdb
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GrdauationProject.EF\obj\Debug\net8.0\GrdauationProject.EF.csproj.AssemblyReference.cache
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GrdauationProject.EF\obj\Debug\net8.0\GrdauationProject.EF.GeneratedMSBuildEditorConfig.editorconfig
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GrdauationProject.EF\obj\Debug\net8.0\GrdauationProject.EF.AssemblyInfoInputs.cache
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GrdauationProject.EF\obj\Debug\net8.0\GrdauationProject.EF.AssemblyInfo.cs
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GrdauationProject.EF\obj\Debug\net8.0\GrdauationProject.EF.csproj.CoreCompileInputs.cache
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GrdauationProject.EF\obj\Debug\net8.0\Grdauati.0D300272.Up2Date
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GrdauationProject.EF\obj\Debug\net8.0\GrdauationProject.EF.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GrdauationProject.EF\obj\Debug\net8.0\refint\GrdauationProject.EF.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GrdauationProject.EF\obj\Debug\net8.0\GrdauationProject.EF.pdb
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GrdauationProject.EF\obj\Debug\net8.0\GrdauationProject.EF.genruntimeconfig.cache
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GrdauationProject.EF\obj\Debug\net8.0\ref\GrdauationProject.EF.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GrdauationProject.EF\obj\Debug\net8.0\GrdauationProject.EF.sourcelink.json

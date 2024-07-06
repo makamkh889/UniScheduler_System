@@ -1,0 +1,13 @@
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.core\bin\Release\net8.0\GraduationProject.core.deps.json
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.core\bin\Release\net8.0\GraduationProject.core.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.core\bin\Release\net8.0\GraduationProject.core.pdb
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.core\obj\Release\net8.0\GraduationProject.core.csproj.AssemblyReference.cache
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.core\obj\Release\net8.0\GraduationProject.core.GeneratedMSBuildEditorConfig.editorconfig
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.core\obj\Release\net8.0\GraduationProject.core.AssemblyInfoInputs.cache
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.core\obj\Release\net8.0\GraduationProject.core.AssemblyInfo.cs
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.core\obj\Release\net8.0\GraduationProject.core.csproj.CoreCompileInputs.cache
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.core\obj\Release\net8.0\GraduationProject.core.sourcelink.json
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.core\obj\Release\net8.0\GraduationProject.core.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.core\obj\Release\net8.0\refint\GraduationProject.core.dll
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.core\obj\Release\net8.0\GraduationProject.core.pdb
+G:\FCI GP2\Final\Schedule-Maker-System-B-main\GraduationProject.core\obj\Release\net8.0\ref\GraduationProject.core.dll
